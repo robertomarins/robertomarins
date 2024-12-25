@@ -1,4 +1,4 @@
-## Olá eu sou Roberto Marins, estudante de desenvolvimento Full Stack!
+## Olá eu sou Roberto Marins, estudante de programação!
 
 <div style="display: inline_block"><br>
 
