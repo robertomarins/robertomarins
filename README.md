@@ -2,9 +2,10 @@
 
 
 <div>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=betorfm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betorfm&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>  
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertomarins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertomarins&layout=compact&langs_count=6&theme=tokyonight"/>
+</div> 
+<br>
 <div>
 	<img alt="HTML5" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img alt="CSS3" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -12,6 +13,7 @@
 	<img alt="JS" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 	<img alt="JS" width="80" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
+<br>
 <div> 
 	<a href="https://instagram.com/betorfm" rel="external" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
