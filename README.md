@@ -2,9 +2,8 @@
 
 
 <div>
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=robertomarins&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=35&hide=issues&bg_color=000&title_color=FFF&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FFF&theme=robertomarins" alt="GitHub stats">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertomarins&layout=compact&langs_count=6&theme=tokyonight"/>
-	<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=robertomarins&line_height=100&card_width=290&layout=compact&count_private=true&langs_count=6&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertomarins">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertomarins&layout=compact&langs_count=6"/>
 </div> 
 <br>
 <div>
