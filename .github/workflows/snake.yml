@@ -15,8 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
       - name: Play snake game
-        uses: platane/snk@v2
+        uses: platane/snk@v1
         with:
           github_user_name: ${{ github.actor }}
-
-
+          github_token: ${{ secrets.GITHUB_TOKEN }}
