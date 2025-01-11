@@ -17,5 +17,6 @@ jobs:
       - name: Play snake game
         uses: platane/snk@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.actor }}
+
 
