@@ -1,16 +1,16 @@
 <H1>Hi, I'm Roberto, Full Stack Developer 👋</H1>
 
 <div>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertomarins">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertomarins&layout=compact&langs_count=6"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertomarins&theme=midnight-purple">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertomarins&theme=midnight-purple&layout=compact&langs_count=6"/>
 </div> 
 <br>
 <div>
-	<img alt="HTML5" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img alt="CSS3" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img alt="JS" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img alt="JS" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-	<img alt="JS" width="80" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+	<img alt="HTML5" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img alt="CSS3" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	<img alt="JS" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	<img alt="JS" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+	<img alt="JS" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
 <br>
 <div> 
